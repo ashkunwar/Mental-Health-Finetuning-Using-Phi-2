@@ -24,7 +24,7 @@ This repository contains a Jupyter Notebook showcasing the process of fine-tunin
    - Discussion on ethical considerations in deploying AI for mental health.
 
 ## Dataset
-The dataset used for fine-tuning is [marmikpandya](https://huggingface.co/datasets/marmikpandya) from Hugging Face, containing 13,000 samples specifically curated for mental health applications.
+The dataset used for fine-tuning is [marmikpandya](https://huggingface.co/datasets/marmikpandya/mental-health) from Hugging Face, containing 13,000 samples specifically curated for mental health applications.
 
 ## Installation
 To run the notebook, ensure you have the following dependencies installed:
